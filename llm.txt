@@ -1,0 +1,23 @@
+# Nếp nhà — Nếp nhà Lịch âm
+
+> Nếp nhà là ứng dụng lịch âm – dương dành cho gia đình Việt, giúp ghi nhớ ngày giỗ, ngày lễ, dịp sum họp và gìn giữ phong tục truyền thống.
+
+Website chính thức: https://vinhnotes.github.io/nepnha/. Nội dung bằng tiếng Việt.
+Ứng dụng do Công ty TNHH Miagi Solution phát triển. Email liên hệ: mobile@miagi-so.com.
+
+Website giới thiệu lịch âm – dương, can chi, tiết khí, giờ hoàng đạo, sự kiện gia đình, phong tục và lời nhắc cho những ngày quan trọng.
+Thông tin về lịch âm, ngày lễ truyền thống, văn khấn và giờ hoàng đạo mang tính tham khảo và văn hóa – tín ngưỡng, không được cam kết chính xác tuyệt đối.
+
+Ứng dụng không yêu cầu tạo tài khoản. Theo chính sách bảo mật, dữ liệu sự kiện được lưu trên thiết bị và có thể được sao lưu theo cơ chế của nền tảng.
+Các nút App Store và Google Play trên website hiện chưa có liên kết tải ứng dụng; không suy diễn rằng ứng dụng đã có mặt trên các kho ứng dụng.
+Khi cần chi tiết về quyền riêng tư hoặc điều khoản, tham khảo trực tiếp các trang tương ứng bên dưới.
+
+## Các trang chính
+
+- [Trang chủ](https://vinhnotes.github.io/nepnha/): Giới thiệu Nếp nhà, câu chuyện gìn giữ truyền thống và các tính năng của ứng dụng.
+- [Chính sách bảo mật](https://vinhnotes.github.io/nepnha/privacy_policy.html): Dữ liệu thu thập, mục đích sử dụng, lưu trữ, thông báo và quyền của người dùng.
+- [Điều khoản sử dụng](https://vinhnotes.github.io/nepnha/term.html): Quyền sử dụng, nội dung tham khảo, trách nhiệm, sở hữu trí tuệ và giới hạn trách nhiệm.
+
+## Optional
+
+- [Sitemap XML](https://vinhnotes.github.io/nepnha/sitemap.xml): Danh sách URL công khai của website.

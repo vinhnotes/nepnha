@@ -1,0 +1,4 @@
+User-agent: *
+Allow: /
+
+Sitemap: https://vinhnotes.github.io/nepnha/sitemap.xml
